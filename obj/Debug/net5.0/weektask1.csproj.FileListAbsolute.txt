@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\feyi code 1\weektask1\bin\Debug\net5.0\weektask1.exe
+C:\Users\hp\Desktop\feyi code 1\weektask1\bin\Debug\net5.0\weektask1.deps.json
+C:\Users\hp\Desktop\feyi code 1\weektask1\bin\Debug\net5.0\weektask1.runtimeconfig.json
+C:\Users\hp\Desktop\feyi code 1\weektask1\bin\Debug\net5.0\weektask1.runtimeconfig.dev.json
+C:\Users\hp\Desktop\feyi code 1\weektask1\bin\Debug\net5.0\weektask1.dll
+C:\Users\hp\Desktop\feyi code 1\weektask1\bin\Debug\net5.0\ref\weektask1.dll
+C:\Users\hp\Desktop\feyi code 1\weektask1\bin\Debug\net5.0\weektask1.pdb
+C:\Users\hp\Desktop\feyi code 1\weektask1\obj\Debug\net5.0\weektask1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\feyi code 1\weektask1\obj\Debug\net5.0\weektask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\feyi code 1\weektask1\obj\Debug\net5.0\weektask1.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\feyi code 1\weektask1\obj\Debug\net5.0\weektask1.AssemblyInfo.cs
+C:\Users\hp\Desktop\feyi code 1\weektask1\obj\Debug\net5.0\weektask1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\feyi code 1\weektask1\obj\Debug\net5.0\weektask1.dll
+C:\Users\hp\Desktop\feyi code 1\weektask1\obj\Debug\net5.0\ref\weektask1.dll
+C:\Users\hp\Desktop\feyi code 1\weektask1\obj\Debug\net5.0\weektask1.pdb
+C:\Users\hp\Desktop\feyi code 1\weektask1\obj\Debug\net5.0\weektask1.genruntimeconfig.cache
